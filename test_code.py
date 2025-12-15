@@ -4,3 +4,4 @@ def main():
     print ("I have arrived!")
 
 main()
+print("SETAP-UNISoc repo edit test successful")
