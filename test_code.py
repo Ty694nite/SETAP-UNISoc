@@ -6,3 +6,4 @@ def main():
     print("heyyyy")
 
 main()
+print("SETAP-UNISoc repo edit test successful")
